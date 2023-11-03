@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IniciandoKotlin</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculator">Calcular</string>
+    <string name="value">Resultado</string>
+    <string name="recalculator">Re-Calcular</string>
+
+    <string name="titulo_BP">Bajo Peso</string>
+    <string name="descripcion_BP">Estas por debajo del peso ideal, necesitas comer mas</string>
+
+    <string name="titulo_PN">Peso Normal</string>
+    <string name="descripcion_PN">Estas con el peso ideal, continua con tus habitos saludables</string>
+
+    <string name="titulo_SP">SobrePeso</string>
+    <string name="descripcion_SP">Estas por encima de tu peso ideal</string>
+
+    <string name="titulo_O">SobrePeso</string>
+    <string name="descripcion_O">Estas muy por encima del peso ideal, tienes que bajar</string>
+
+
+</resources>
